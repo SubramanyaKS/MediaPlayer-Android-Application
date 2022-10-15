@@ -1,6 +1,7 @@
 # MediaPlayer-Android-Application
 
 <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/4RHQEfGTVj0?style=plastic">
+<img src="https://img.shields.io/github/stars/SubramanyaKS/MediaPlayer-Android-Application" alt ="Star">
 
 Type    : Mini Project  
 Subject : Mobile Apllication Development (18CSMP68)  
